@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Solanki 
 - 👀 I’m interested in Competitive Coding 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 E Mail: solankiakshay166@gmail.com
