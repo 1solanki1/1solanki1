@@ -11,13 +11,13 @@
 <!-- Social Media Links Section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/akshay-solanki-26a0a51b6/">
-    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="30" src="https://imgs.search.brave.com/GpB5WQlesvec2MXDXDV3SmKb0pzSJzyH667WAzbxGcs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n"/>
   </a>
   <a href="https://x.com/1solanki11">
-    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="30" src="https://imgs.search.brave.com/1DWiIBFNPbOKsUe7RpBYILX0-lq6qVcJzrLeyc3ZRWA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2VU/dEZ1VmVLVHdxVEQ0/MlBZTUxXdUEtMzIw/LTgwLmpwZw"/>
   </a>
   <a href="https://www.instagram.com/1solanki1/">
-    <img height="30" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+    <img height="30" src="https://imgs.search.brave.com/d-J_drpN2AYgULX5rOgVEzRsYfMc-JMxvLy-NwnBEVg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAzLzMzLzIxLzYx/LzM2MF9GXzMzMzIx/NjE4MF8wY0RMeTNl/WWQ0dkFmR2V2ajJm/bHJaVVR3eHBKUkZk/SC5qcGc"/>
   </a>
 </p>
 
