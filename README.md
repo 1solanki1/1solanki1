@@ -1,7 +1,3 @@
-<div align="center">
-<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 &lt;developers/&gt;! <img src="https://github.com/1solanki1/blob/master/gifs/Hi.gif" width="30"></h2>
-
-<img src="https://i.imgur.com/dTYwdG1.gif" width="300"/>
 
 # Akshay Solanki
 
