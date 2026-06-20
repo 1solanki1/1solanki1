@@ -6,7 +6,8 @@
 ### Building Logic with C++ | Organizing Data with SQL
 </div>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif">
 
 ## 👨‍💻 About Me
 
