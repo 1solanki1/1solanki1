@@ -7,7 +7,8 @@
 </div>
 
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240885606-f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e.gif">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f606466f-4cc9-4cb1-8ad6-80a7eeea9e7e" width="400">
+<br><br>
 
 ## 👨‍💻 About Me
 
