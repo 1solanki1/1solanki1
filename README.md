@@ -96,6 +96,12 @@
 
 ---
 
+<h2>🚀 LeetCode Stats</h2>
+
+<img src="https://leetcard.jacoblin.cool/1solanki1?theme=dark&font=Karma" alt="LeetCode Stats"/>
+
+------
+
 ## 👾 Pac-Man Contribution Graph
 
 <p align="center">
