@@ -145,34 +145,18 @@ while (!success) {
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/1solanki1/ledgersync-ai-reconciliation"><img src="assets/ledger-sync-title.svg" alt="LedgerSync"></a><br>
-<a href="https://github.com/1solanki1/ledgersync-ai-reconciliation"><img src="assets/ledger-sync-desc.svg" alt="Invoice extraction, arithmetic verification and reconciliation"></a><br><br>
-<b>Stack:</b> <code>Java</code> · <code>Maven</code> · <code>Gemini API</code>
-
+<a href="https://github.com/1solanki1/ledgersync-ai-reconciliation"><img src="assets/ledger-sync-card.svg" alt="LedgerSync project" width="100%"></a>
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer"><img src="assets/api-gateway-title.svg" alt="API Gateway"></a><br>
-<a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer"><img src="assets/api-gateway-desc.svg" alt="Reverse proxy and round-robin load balancing"></a><br><br>
-<b>Stack:</b> <code>C++</code> · <code>Boost.Asio</code> · <code>Boost.Beast</code> · <code>CMake</code>
-
+<a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer"><img src="assets/api-gateway-card.svg" alt="API Gateway project" width="100%"></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-<a href="https://github.com/1solanki1/student-course-sql-java"><img src="assets/student-course-title.svg" alt="Student Course Management"></a><br>
-<a href="https://github.com/1solanki1/student-course-sql-java"><img src="assets/student-course-desc.svg" alt="Course, student and database management"></a><br><br>
-<b>Stack:</b> <code>Java</code> · <code>MySQL</code>
-
+<a href="https://github.com/1solanki1/student-course-sql-java"><img src="assets/student-course-card.svg" alt="Student Course Management project" width="100%"></a>
 </td>
 <td width="50%" valign="top">
-
-<a href="https://github.com/1solanki1/neetcode-submissions"><img src="assets/dsa-practice-title.svg" alt="DSA Practice"></a><br>
-<a href="https://github.com/1solanki1/neetcode-submissions"><img src="assets/dsa-practice-desc.svg" alt="Consistent problem solving across core DSA patterns"></a><br><br>
-<b>Stack:</b> <code>C++</code>
-
+<a href="https://github.com/1solanki1/neetcode-submissions"><img src="assets/dsa-practice-card.svg" alt="DSA Practice project" width="100%"></a>
 </td>
 </tr>
 </table>
