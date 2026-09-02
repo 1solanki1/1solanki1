@@ -24,66 +24,6 @@ Building practical software, strengthening DSA fundamentals, and learning backen
 
 ---
 
-<div align="center">
-
-## <font color="#39D353">`~/` selected work</font>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <font color="#39D353">▣ LedgerSync</font>
-
-Invoice extraction, arithmetic verification and reconciliation
-
-**Stack:** `Java` · `Maven` · `Gemini API`
-
-</td>
-<td width="50%" valign="top">
-
-### <font color="#39D353">▣ API Gateway</font>
-
-Reverse proxy and round-robin load balancing
-
-**Stack:** `C++` · `Boost.Asio` · `Boost.Beast` · `CMake`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### <font color="#39D353">▣ Student Course Management</font>
-
-Course, student and database management
-
-**Stack:** `Java` · `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### <font color="#39D353">▣ DSA Practice</font>
-
-Consistent problem solving across core DSA patterns
-
-**Stack:** `C++`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-| project | stack | what it does |
-|---|---|---|
-| **[LedgerSync](https://github.com/1solanki1)** | `Java` `Maven` `Gemini API` | Invoice extraction, arithmetic verification and reconciliation |
-| **API Gateway** | `C++` `Boost.Asio` `Boost.Beast` `CMake` | Reverse proxy and round-robin load balancing |
-| **Student Course Management** | `Java` `MySQL` | Course, student and database management |
-| **DSA Practice** | `C++` | Consistent problem solving across core DSA patterns |
-
-</div>
-
----
-
 ## <font color="#39D353">`~/` whoami</font>
 
 ```console
@@ -150,16 +90,6 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 <div align="center">
 
-## <font color="#39D353">`~/` contribution graph</font>
-
-<img src="https://raw.githubusercontent.com/1solanki1/1solanki1/main/assets/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
 ## <font color="#39D353">`~/` coding stats</font>
 
 <a href="https://leetcode.com/u/1solanki1/">
@@ -191,6 +121,76 @@ while (!success) {
 ```
 
 > **Consistency beats intensity when intensity doesn't last.**
+
+---
+
+<div align="center">
+
+## <font color="#39D353">`~/` contribution graph</font>
+
+<img src="https://raw.githubusercontent.com/1solanki1/1solanki1/main/assets/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## <font color="#39D353">`~/` selected work</font>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ LedgerSync</font>
+
+Invoice extraction, arithmetic verification and reconciliation
+
+**Stack:** `Java` · `Maven` · `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ API Gateway</font>
+
+Reverse proxy and round-robin load balancing
+
+**Stack:** `C++` · `Boost.Asio` · `Boost.Beast` · `CMake`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ Student Course Management</font>
+
+Course, student and database management
+
+**Stack:** `Java` · `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ DSA Practice</font>
+
+Consistent problem solving across core DSA patterns
+
+**Stack:** `C++`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+| project | stack | what it does |
+|---|---|---|
+| **[LedgerSync](https://github.com/1solanki1)** | `Java` `Maven` `Gemini API` | Invoice extraction, arithmetic verification and reconciliation |
+| **API Gateway** | `C++` `Boost.Asio` `Boost.Beast` `CMake` | Reverse proxy and round-robin load balancing |
+| **Student Course Management** | `Java` `MySQL` | Course, student and database management |
+| **DSA Practice** | `C++` | Consistent problem solving across core DSA patterns |
+
+</div>
 
 ---
 
