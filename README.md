@@ -142,53 +142,44 @@ while (!success) {
 <tr>
 <td width="50%" valign="top">
 
-### <font color="#39D353">▣ LedgerSync</font>
-
-Invoice extraction, arithmetic verification and reconciliation
-
-**Stack:** `Java` · `Maven` · `Gemini API`
+<a href="https://github.com/1solanki1/ledgersync-ai-reconciliation">
+<font color="#39D353"><b>▣ LedgerSync</b></font><br>
+Invoice extraction, arithmetic verification and reconciliation<br><br>
+<b>Stack:</b> <code>Java</code> · <code>Maven</code> · <code>Gemini API</code>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### <font color="#39D353">▣ API Gateway</font>
-
-Reverse proxy and round-robin load balancing
-
-**Stack:** `C++` · `Boost.Asio` · `Boost.Beast` · `CMake`
+<a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer">
+<font color="#39D353"><b>▣ API Gateway</b></font><br>
+Reverse proxy and round-robin load balancing<br><br>
+<b>Stack:</b> <code>C++</code> · <code>Boost.Asio</code> · <code>Boost.Beast</code> · <code>CMake</code>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <font color="#39D353">▣ Student Course Management</font>
-
-Course, student and database management
-
-**Stack:** `Java` · `MySQL`
+<a href="https://github.com/1solanki1/student-course-sql-java">
+<font color="#39D353"><b>▣ Student Course Management</b></font><br>
+Course, student and database management<br><br>
+<b>Stack:</b> <code>Java</code> · <code>MySQL</code>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### <font color="#39D353">▣ DSA Practice</font>
-
-Consistent problem solving across core DSA patterns
-
-**Stack:** `C++`
+<a href="https://github.com/1solanki1/neetcode-submissions">
+<font color="#39D353"><b>▣ DSA Practice</b></font><br>
+Consistent problem solving across core DSA patterns<br><br>
+<b>Stack:</b> <code>C++</code>
+</a>
 
 </td>
 </tr>
 </table>
-
-<br>
-
-| project | stack | what it does |
-|---|---|---|
-| **[LedgerSync](https://github.com/1solanki1)** | `Java` `Maven` `Gemini API` | Invoice extraction, arithmetic verification and reconciliation |
-| **API Gateway** | `C++` `Boost.Asio` `Boost.Beast` `CMake` | Reverse proxy and round-robin load balancing |
-| **Student Course Management** | `Java` `MySQL` | Course, student and database management |
-| **DSA Practice** | `C++` | Consistent problem solving across core DSA patterns |
 
 </div>
 
