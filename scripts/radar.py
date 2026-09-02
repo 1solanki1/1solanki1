@@ -5,7 +5,7 @@ root = Path(__file__).resolve().parents[1]
 data = json.loads((root / 'assets' / 'skills.json').read_text())
 axes = data['axes']
 
-W, H, CX, CY, R = 760, 560, 380, 285, 205
+W, H, CX, CY, R = 760, 560, 380, 300, 190
 
 
 def point(i, radius):
@@ -16,7 +16,6 @@ def point(i, radius):
 def svg(dark):
     bg = '#0d1117' if dark else '#ffffff'
     fg = '#39d353' if dark else '#1a7f37'
-    muted = '#8b949e' if dark else '#57606a'
     grid = '#30363d' if dark else '#d0d7de'
     accent = '#39d353' if dark else '#1a7f37'
 
@@ -54,16 +53,6 @@ def svg(dark):
     parts.append(
         f'<polygon points="{pts}" fill="{accent}" fill-opacity="0.20" '
         f'stroke="{accent}" stroke-width="3"/>'
-    )
-    parts.append(
-        f'<text x="{CX}" y="42" fill="{fg}" '
-        f'font-family="Arial,sans-serif" font-size="24" font-weight="700" '
-        f'text-anchor="middle">{data["title"]}</text>'
-    )
-    parts.append(
-        f'<text x="{CX}" y="68" fill="{muted}" '
-        f'font-family="Arial,sans-serif" font-size="13" '
-        f'text-anchor="middle">Self-rated focus areas</text>'
     )
     parts.append('</svg>')
     return ''.join(parts)
