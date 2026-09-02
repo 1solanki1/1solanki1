@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/1solanki1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Akshay+Solanki;C%2B%2B+%7C+Java+%7C+DSA+%7C+SQL;Building+projects+%26+solving+problems;01000011+01001111+01000100+01000101" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=680&lines=Akshay+Solanki;C%2B%2B+%7C+Java+%7C+DSA+%7C+SQL;Building+projects+%26+solving+problems;01000011+01001111+01000100+01000101" alt="Typing banner" />
 </a>
 
 <br>
 
-### Computer Science & Business Systems Student · Developer · Problem Solver
+<font color="#39D353"><b>Computer Science & Business Systems Student · Developer · Problem Solver</b></font>
 
 Building practical software, strengthening DSA fundamentals, and learning backend engineering by shipping real projects.
 
@@ -18,13 +18,73 @@ Building practical software, strengthening DSA fundamentals, and learning backen
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=1solanki1&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=1solanki1&style=flat-square&color=39d353&label=profile+views" alt="Profile views">
 
 </div>
 
 ---
 
-## `~/` whoami
+<div align="center">
+
+## <font color="#39D353">`~/` selected work</font>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ LedgerSync</font>
+
+Invoice extraction, arithmetic verification and reconciliation
+
+**Stack:** `Java` · `Maven` · `Gemini API`
+
+</td>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ API Gateway</font>
+
+Reverse proxy and round-robin load balancing
+
+**Stack:** `C++` · `Boost.Asio` · `Boost.Beast` · `CMake`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ Student Course Management</font>
+
+Course, student and database management
+
+**Stack:** `Java` · `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### <font color="#39D353">▣ DSA Practice</font>
+
+Consistent problem solving across core DSA patterns
+
+**Stack:** `C++`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+| project | stack | what it does |
+|---|---|---|
+| **[LedgerSync](https://github.com/1solanki1)** | `Java` `Maven` `Gemini API` | Invoice extraction, arithmetic verification and reconciliation |
+| **API Gateway** | `C++` `Boost.Asio` `Boost.Beast` `CMake` | Reverse proxy and round-robin load balancing |
+| **Student Course Management** | `Java` `MySQL` | Course, student and database management |
+| **DSA Practice** | `C++` | Consistent problem solving across core DSA patterns |
+
+</div>
+
+---
+
+## <font color="#39D353">`~/` whoami</font>
 
 ```console
 $ cat about.txt
@@ -44,7 +104,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 <div align="center">
 
-## `~/` toolbox
+## <font color="#39D353">`~/` toolbox</font>
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,html,css,cmake,maven,git,github,vscode&perline=11" alt="Tech stack">
 
@@ -54,7 +114,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 <div align="center">
 
-## `~/` skill radar
+## <font color="#39D353">`~/` skill radar</font>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
@@ -68,7 +128,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 ---
 
-## `~/` current build log
+## <font color="#39D353">`~/` current build log</font>
 
 ```text
 [█████████████████░░░] DSA / Problem Solving
@@ -78,7 +138,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 [██████████░░░░░░░░░░] System Design
 ```
 
-### 2026 goals
+## <font color="#39D353">2026 goals</font>
 
 - [ ] Push DSA problem solving consistently
 - [ ] Strengthen System Design fundamentals
@@ -90,22 +150,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 <div align="center">
 
-## `~/` selected work
-
-</div>
-
-| Project | Stack | What it does |
-|---|---|---|
-| **[LedgerSync](https://github.com/1solanki1)** | `Java` `Maven` `Gemini API` | Invoice extraction, arithmetic verification and reconciliation |
-| **API Gateway** | `C++` `Boost.Asio` `Boost.Beast` `CMake` | Reverse proxy and round-robin load balancing |
-| **Student Course Management** | `Java` `MySQL` | Course, student and database management |
-| **DSA Practice** | `C++` | Consistent problem solving across core DSA patterns |
-
----
-
-<div align="center">
-
-## `~/` contribution graph
+## <font color="#39D353">`~/` contribution graph</font>
 
 <img src="https://raw.githubusercontent.com/1solanki1/1solanki1/main/assets/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
 
@@ -115,7 +160,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 <div align="center">
 
-## `~/` coding stats
+## <font color="#39D353">`~/` coding stats</font>
 
 <a href="https://leetcode.com/u/1solanki1/">
   <img src="https://leetcard.jacoblin.cool/1solanki1?theme=dark&font=Karma" alt="LeetCode Stats" width="500">
@@ -134,7 +179,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 ---
 
-## `~/` philosophy.cpp
+## <font color="#39D353">`~/` philosophy.cpp</font>
 
 ```cpp
 while (!success) {
@@ -151,8 +196,8 @@ while (!success) {
 
 <div align="center">
 
-`01000001 01101011 01110011 01101000 01100001 01111001`
+<font color="#39D353">`01000001 01101011 01110011 01101000 01100001 01111001`</font>
 
-### Always learning. Always building. 🚀
+### <font color="#39D353">Always learning. Always building. 🚀</font>
 
 </div>
