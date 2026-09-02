@@ -111,16 +111,12 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 ## <font color="#39D353">`~/` philosophy.cpp</font>
 
-```cpp
-while (!success) {
-    learn();
-    practice();
-    build();
-    improve();
-}
+```text
+"Code is like humor.
+ When you have to explain it, it's bad."
 ```
 
-> **Consistency beats intensity when intensity doesn't last.**
+> **Write code that speaks for itself.**
 
 ---
 
