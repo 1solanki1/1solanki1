@@ -57,9 +57,9 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 ## <font color="#39D353">`~/` skill radar</font>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg?v=3">
-  <img src="assets/skills-light.svg?v=3" width="760" alt="Skill Radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light-v4.svg">
+  <img src="assets/skills-light-v4.svg" width="760" alt="Skill Radar">
 </picture>
 
 <sub>Self-rated focus areas — not benchmark scores.</sub>
