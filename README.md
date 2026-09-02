@@ -147,14 +147,14 @@ while (!success) {
 <td width="50%" valign="top">
 
 <a href="https://github.com/1solanki1/ledgersync-ai-reconciliation"><img src="assets/ledger-sync-title.svg" alt="LedgerSync"></a><br>
-Invoice extraction, arithmetic verification and reconciliation<br><br>
+<a href="https://github.com/1solanki1/ledgersync-ai-reconciliation"><img src="assets/ledger-sync-desc.svg" alt="Invoice extraction, arithmetic verification and reconciliation"></a><br><br>
 <b>Stack:</b> <code>Java</code> · <code>Maven</code> · <code>Gemini API</code>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer"><img src="assets/api-gateway-title.svg" alt="API Gateway"></a><br>
-Reverse proxy and round-robin load balancing<br><br>
+<a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer"><img src="assets/api-gateway-desc.svg" alt="Reverse proxy and round-robin load balancing"></a><br><br>
 <b>Stack:</b> <code>C++</code> · <code>Boost.Asio</code> · <code>Boost.Beast</code> · <code>CMake</code>
 
 </td>
@@ -163,14 +163,14 @@ Reverse proxy and round-robin load balancing<br><br>
 <td width="50%" valign="top">
 
 <a href="https://github.com/1solanki1/student-course-sql-java"><img src="assets/student-course-title.svg" alt="Student Course Management"></a><br>
-Course, student and database management<br><br>
+<a href="https://github.com/1solanki1/student-course-sql-java"><img src="assets/student-course-desc.svg" alt="Course, student and database management"></a><br><br>
 <b>Stack:</b> <code>Java</code> · <code>MySQL</code>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/1solanki1/neetcode-submissions"><img src="assets/dsa-practice-title.svg" alt="DSA Practice"></a><br>
-Consistent problem solving across core DSA patterns<br><br>
+<a href="https://github.com/1solanki1/neetcode-submissions"><img src="assets/dsa-practice-desc.svg" alt="Consistent problem solving across core DSA patterns"></a><br><br>
 <b>Stack:</b> <code>C++</code>
 
 </td>
