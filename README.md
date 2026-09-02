@@ -56,7 +56,7 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 ## <font color="#39D353">`~/` skill radar</font>
 
-<br><br>
+<br><br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
