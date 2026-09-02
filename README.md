@@ -146,7 +146,7 @@ while (!success) {
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/1solanki1/ledgersync-ai-reconciliation">
+<a href="https://github.com/1solanki1/ledgersync-ai-reconciliation" style="text-decoration:none">
 <font color="#39D353"><b>▣ LedgerSync</b></font><br>
 Invoice extraction, arithmetic verification and reconciliation<br><br>
 <b>Stack:</b> <code>Java</code> · <code>Maven</code> · <code>Gemini API</code>
@@ -155,7 +155,7 @@ Invoice extraction, arithmetic verification and reconciliation<br><br>
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer">
+<a href="https://github.com/1solanki1/api-gateway-reverse-proxy-load-balancer" style="text-decoration:none">
 <font color="#39D353"><b>▣ API Gateway</b></font><br>
 Reverse proxy and round-robin load balancing<br><br>
 <b>Stack:</b> <code>C++</code> · <code>Boost.Asio</code> · <code>Boost.Beast</code> · <code>CMake</code>
@@ -166,7 +166,7 @@ Reverse proxy and round-robin load balancing<br><br>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/1solanki1/student-course-sql-java">
+<a href="https://github.com/1solanki1/student-course-sql-java" style="text-decoration:none">
 <font color="#39D353"><b>▣ Student Course Management</b></font><br>
 Course, student and database management<br><br>
 <b>Stack:</b> <code>Java</code> · <code>MySQL</code>
@@ -175,7 +175,7 @@ Course, student and database management<br><br>
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/1solanki1/neetcode-submissions">
+<a href="https://github.com/1solanki1/neetcode-submissions" style="text-decoration:none">
 <font color="#39D353"><b>▣ DSA Practice</b></font><br>
 Consistent problem solving across core DSA patterns<br><br>
 <b>Stack:</b> <code>C++</code>
