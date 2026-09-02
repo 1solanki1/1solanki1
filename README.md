@@ -112,7 +112,13 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 ## <font color="#39D353">`~/` philosophy.cpp</font>
 
 ```cpp
-const char* philosophy = "Code is like humor. When you have to explain it, it's bad.";
+if (code.isLikeHumor()) {
+    if (you.haveToExplainIt()) {
+        cout << "It's bad.";
+    } else {
+        cout << "It's good.";
+    }
+}
 ```
 
 > **"Code is like humor. When you have to explain it, it's bad."**
