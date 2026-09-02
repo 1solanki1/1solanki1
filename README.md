@@ -29,10 +29,10 @@ Building projects, solving problems, and learning by shipping.
 ## `$ toolbox`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,git,github,html,css,cmake,maven" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,html,css,cmake,maven,git,github" />
 </p>
 
-<p align="center"><sub>Core stack · tools I actually use while learning and building</sub></p>
+<p align="center"><sub>Core stack · tools I use while learning and building</sub></p>
 
 ---
 
@@ -53,7 +53,7 @@ Building projects, solving problems, and learning by shipping.
 ```text
 * solving-dsa        → arrays · trees · graphs · binary search · DP
 * building-projects  → Java · C++ · SQL · APIs
-* learning-backend   → databases · networking · system fundamentals
+* learning-system-design → scalable systems · architecture · design fundamentals
 * preparing-roles    → DSA · OOP · DBMS · OS · CN
 ```
 
@@ -73,11 +73,7 @@ Building projects, solving problems, and learning by shipping.
 ## `$ ./contributions`
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1solanki1/1solanki1/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1solanki1/1solanki1/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/1solanki1/1solanki1/output/snake.svg" alt="Contribution Snake">
-</picture>
+<img src="https://raw.githubusercontent.com/1solanki1/1solanki1/main/assets/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
 </p>
 
 ---
@@ -93,19 +89,19 @@ Building projects, solving problems, and learning by shipping.
 ## `$ current-focus`
 
 ```text
-DSA        █████████████████░░░  problem solving
-C++        █████████████████░░░  implementation
-Java       ███████████████░░░░░  backend fundamentals
-SQL/DBMS   ███████████████░░░░░  queries + design
-Git/GitHub ████████████████░░░░  projects + automation
+DSA            █████████████████░░░  problem solving
+C++            █████████████████░░░  implementation
+Java           ███████████████░░░░░  backend fundamentals
+SQL/DBMS       ███████████████░░░░░  queries + design
+System Design  ██████████░░░░░░░░░░  learning
 ```
 
 ### 2026 goals
 
 - [ ] Push DSA problem solving consistently
+- [ ] Learn System Design fundamentals
 - [ ] Build stronger backend projects
 - [ ] Improve DBMS, OS, CN and OOP fundamentals
-- [ ] Ship projects that are easy to explain in interviews
 - [ ] Land a software development role
 
 ---
