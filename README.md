@@ -111,12 +111,11 @@ I enjoy turning concepts into working software: solving DSA problems, building J
 
 ## <font color="#39D353">`~/` philosophy.cpp</font>
 
-```text
-"Code is like humor.
- When you have to explain it, it's bad."
+```cpp
+const char* philosophy = "Code is like humor. When you have to explain it, it's bad.";
 ```
 
-> **Write code that speaks for itself.**
+> **"Code is like humor. When you have to explain it, it's bad."**
 
 ---
 
