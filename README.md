@@ -128,7 +128,11 @@ while (!success) {
 
 ## <font color="#39D353">`~/` contribution graph</font>
 
-<img src="https://raw.githubusercontent.com/1solanki1/1solanki1/main/assets/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1solanki1/1solanki1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1solanki1/1solanki1/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/1solanki1/1solanki1/output/pacman-contribution-graph.svg" alt="Animated Pac-Man contribution graph" width="100%">
+</picture>
 
 </div>
 
