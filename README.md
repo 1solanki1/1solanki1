@@ -1,117 +1,146 @@
 <div align="center">
 
-# `~/whoami`
+<a href="https://github.com/1solanki1">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Akshay+Solanki;C%2B%2B+%7C+Java+%7C+DSA+%7C+SQL;Building+projects+%26+solving+problems;01000011+01001111+01000100+01000101" alt="Typing banner" />
+</a>
 
-### Akshay Solanki
+<br>
 
-**Computer Science Student · C++ / DSA · Java · SQL**
+### Computer Science & Business Systems Student · Developer · Problem Solver
 
-Building projects, solving problems, and learning by shipping.
+Building practical software, strengthening DSA fundamentals, and learning backend engineering by shipping real projects.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-solanki-26a0a51b6/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/1solanki1/)
-[![GitHub](https://img.shields.io/badge/GitHub-1solanki1-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1solanki1)
+<br><br>
+
+<a href="https://www.linkedin.com/in/akshay-solanki-26a0a51b6/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/1solanki1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://github.com/1solanki1"><img src="https://img.shields.io/badge/GitHub-1solanki1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=1solanki1&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views">
 
 </div>
 
 ---
 
-## `$ cat about.txt`
+## `~/` whoami
 
-- 🎓 B.Tech **Computer Science & Business Systems** student at NIET, Greater Noida
-- 💻 Main focus: **C++, Data Structures & Algorithms, Java and SQL**
-- 🔧 Interested in backend systems, databases and practical software engineering
-- 🚀 Building projects instead of only collecting tutorials
-- 🎯 Preparing for software development placements
+```console
+$ cat about.txt
+```
 
----
+Hi, I'm **Akshay Solanki** — a B.Tech **Computer Science & Business Systems** student at NIET, Greater Noida.
 
-## `$ toolbox`
+I enjoy turning concepts into working software: solving DSA problems, building Java/C++ projects, working with SQL databases, and learning how reliable backend systems are designed.
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,html,css,cmake,maven,git,github" />
-</p>
-
-<p align="center"><sub>Core stack · tools I use while learning and building</sub></p>
+- 🎓 Computer Science & Business Systems student
+- 💻 Focused on **C++, DSA, Java, SQL and backend fundamentals**
+- 🔧 Interested in APIs, databases, system design and practical software engineering
+- 🚀 I prefer building and shipping over only following tutorials
+- 🎯 Preparing for software development opportunities
 
 ---
 
-## `$ ./skill-radar`
+<div align="center">
+
+## `~/` toolbox
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,html,css,cmake,maven,git,github,vscode&perline=11" alt="Tech stack">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` skill radar
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
-  <img src="assets/skills-light.svg" alt="Skill Radar" width="760">
+  <img src="assets/skills-light.svg" width="760" alt="Skill Radar">
 </picture>
 
 <sub>Self-rated focus areas — not benchmark scores.</sub>
 
+</div>
+
 ---
 
-## `$ git log --oneline --graph`
+## `~/` current build log
 
 ```text
-* solving-dsa        → arrays · trees · graphs · binary search · DP
-* building-projects  → Java · C++ · SQL · APIs
-* learning-system-design → scalable systems · architecture · design fundamentals
-* preparing-roles    → DSA · OOP · DBMS · OS · CN
-```
-
----
-
-## `$ ls ./projects`
-
-| Project | Stack | What it does |
-|---|---|---|
-| **LedgerSync** | Java · Maven · Gemini API | Invoice extraction, arithmetic verification and reconciliation |
-| **API Gateway** | C++ · Boost.Asio · Boost.Beast · CMake | Reverse proxy and round-robin load balancing |
-| **Student Course Management** | Java · MySQL | Course, student and database management |
-| **DSA Practice** | C++ | Consistent problem solving across core DSA patterns |
-
----
-
-## `$ ./contributions`
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/1solanki1/1solanki1/main/assets/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
-</p>
-
----
-
-## `$ leetcode --stats`
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/1solanki1?theme=dark&font=Karma" alt="LeetCode Stats" width="500">
-</p>
-
----
-
-## `$ current-focus`
-
-```text
-DSA            █████████████████░░░  problem solving
-C++            █████████████████░░░  implementation
-Java           ███████████████░░░░░  backend fundamentals
-SQL/DBMS       ███████████████░░░░░  queries + design
-System Design  ██████████░░░░░░░░░░  learning
+[█████████████████░░░] DSA / Problem Solving
+[█████████████████░░░] C++ / Implementation
+[███████████████░░░░░] Java / Backend Fundamentals
+[███████████████░░░░░] SQL / DBMS
+[██████████░░░░░░░░░░] System Design
 ```
 
 ### 2026 goals
 
 - [ ] Push DSA problem solving consistently
-- [ ] Learn System Design fundamentals
+- [ ] Strengthen System Design fundamentals
 - [ ] Build stronger backend projects
 - [ ] Improve DBMS, OS, CN and OOP fundamentals
 - [ ] Land a software development role
 
 ---
 
-## `$ cat philosophy.cpp`
+<div align="center">
+
+## `~/` selected work
+
+</div>
+
+| Project | Stack | What it does |
+|---|---|---|
+| **[LedgerSync](https://github.com/1solanki1)** | `Java` `Maven` `Gemini API` | Invoice extraction, arithmetic verification and reconciliation |
+| **API Gateway** | `C++` `Boost.Asio` `Boost.Beast` `CMake` | Reverse proxy and round-robin load balancing |
+| **Student Course Management** | `Java` `MySQL` | Course, student and database management |
+| **DSA Practice** | `C++` | Consistent problem solving across core DSA patterns |
+
+---
+
+<div align="center">
+
+## `~/` contribution graph
+
+<img src="https://raw.githubusercontent.com/1solanki1/1solanki1/main/assets/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` coding stats
+
+<a href="https://leetcode.com/u/1solanki1/">
+  <img src="https://leetcard.jacoblin.cool/1solanki1?theme=dark&font=Karma" alt="LeetCode Stats" width="500">
+</a>
+
+<br><br>
+
+<a href="https://github.com/1solanki1">
+  <img src="https://github-readme-stats.vercel.app/api?username=1solanki1&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="165" alt="GitHub stats">
+</a>
+<a href="https://github.com/1solanki1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1solanki1&layout=compact&hide_border=true&theme=github_dark" height="165" alt="Top languages">
+</a>
+
+</div>
+
+---
+
+## `~/` philosophy.cpp
 
 ```cpp
 while (!success) {
     learn();
     practice();
+    build();
     improve();
 }
 ```
@@ -124,6 +153,6 @@ while (!success) {
 
 `01000001 01101011 01110011 01101000 01100001 01111001`
 
-**Always learning. Always building.**
+### Always learning. Always building. 🚀
 
 </div>
