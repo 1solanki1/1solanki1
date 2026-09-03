@@ -2,7 +2,7 @@
   "title": "Skill Radar",
   "axes": [
     {"label":"C++","value":80},
-    {"label":"Java","value":20},
+    {"label":"Java","value":30},
     {"label":"SQL","value":90},
     {"label":"Git / GitHub","value":70},
     {"label":"System Design","value":55},
