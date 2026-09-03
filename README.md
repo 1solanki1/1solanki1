@@ -19,7 +19,7 @@ Building practical software, strengthening DSA fundamentals, and learning backen
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile%20Views-15-39D353?style=flat-square&labelColor=21262d" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=1solanki1&base=12&style=flat-square&color=39D353&label=Profile+Views" alt="Profile views">
 
 </div>
 
