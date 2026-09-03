@@ -1,11 +1,11 @@
 {
   "title": "Skill Radar",
   "axes": [
-    {"label":"C++","value":88},
-    {"label":"Java","value":20},
-    {"label":"SQL","value":82},
-    {"label":"Git / GitHub","value":80},
-    {"label":"System Design","value":70},
-    {"label":"AI / APIs","value":62}
+    {"label":"C++","value":80},
+    {"label":"Java","value":30},
+    {"label":"SQL","value":90},
+    {"label":"Git / GitHub","value":70},
+    {"label":"System Design","value":55},
+    {"label":"AI / APIs","value":50}
   ]
 }
